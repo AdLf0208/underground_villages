@@ -1,0 +1,11 @@
+# Carried from UndergroundVillages-neoforge-1.21.1-4.0.3.jar by horizon-port-pack,
+# then two target-version rewrites by tools/apply_patches.py (see notes.md).
+# Licence: MIT (Copyright (c) 2022 Mrbysco); authors Mrbysco, ShyNieke.
+id = "underground_villages"
+name = "Underground Villages Mod"
+version = "0.1.0"
+description = """Underground villages: a jigsaw village that generates inside the stone at Y=-20, with streets, houses, town centres, farms, animals and villagers, carried to Minecraft 26.3 as data."""
+authors = ["Mrbysco", "ShyNieke"]
+api = "0.2"
+side = "both"
+capabilities = ["registries"]
